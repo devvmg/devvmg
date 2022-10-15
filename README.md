@@ -1,4 +1,4 @@
-<h1>Bem vindo | Welcome | Bien venido| いら者いません 🍷🗿</h1>
+<h1>Bem vindo | Welcome | Bien venido| いら者いませ 🍷🗿</h1>
 
 <div display="inline-block">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PiriDev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=disable"/>
