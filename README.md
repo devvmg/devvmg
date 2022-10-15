@@ -1,10 +1,12 @@
-<h1>Seja bem vindo 🍷🗿</h1>
-<p>➛ Desenvolvedor Front-End;</p>
-<p>➛ Entusiasta da Tecnologia.</p>
+<h1>Bem vindo | Welcome | Bien venido| いら者いません 🍷🗿</h1>
 
-<div>
-  <img height="180em" src="https://github.com/PiriDev/PiriDev/blob/PiriProjects/Dash.png">
-  <img height="180em" src="https://github.com/PiriDev/PiriDev/blob/PiriProjects/giorno-giorno-giovanna.gif">
+<div display="inline-block">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PiriDev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=disable"/>
+   <img height="180em" src="https://github.com/PiriDev/PiriDev/blob/PiriProjects/giorno-giorno-giovanna.gif">
+</div>
+<div display="inline-block">
+   <img height="180em" src="https://github.com/PiriDev/PiriDev/blob/PiriProjects/abbacchio-fmega.gif">
+   <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PiriDev&layout=compact&langs_count=8&theme=nightowl&card_width=430&hide_border=disable"/>
 </div>
 
 <hr>
