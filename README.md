@@ -2,10 +2,10 @@
 
 <div display="inline-block" align="center">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PiriDev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=disable"/>
-   <img height="180em" src="https://github.com/PiriDev/PiriDev/blob/PiriProjects/giorno-giorno-giovanna.gif">
+   <img height="180em" src="https://github.com/devvmg/PiriDev/blob/PiriProjects/giorno-giorno-giovanna.gif">
 </div>
 <div display="inline-block" align="center">
-   <img height="180em" src="https://github.com/PiriDev/PiriDev/blob/PiriProjects/abbacchio-fmega.gif">
+   <img height="180em" src="https://github.com/devvmg/PiriDev/blob/PiriProjects/abbacchio-fmega.gif">
    <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PiriDev&layout=compact&langs_count=8&theme=nightowl&card_width=432&hide_border=disable"/>
 </div>
 
@@ -29,7 +29,7 @@
 <h2>🔰 Minha atividade:</h2>
 
 <div align="center">
-   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PiriDev&theme=vue">
+   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devvmg&theme=vue">
 </div>
 
 <hr>
