@@ -1,12 +1,12 @@
 <h1 align="center">Bem vindo | Welcome | Bien venido | いら者いませ 🍷🗿</h1>
 
 <div display="inline-block" align="center">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PiriDev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=disable"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devvmg&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=disable"/>
    <img height="180em" src="https://github.com/devvmg/PiriDev/blob/PiriProjects/giorno-giorno-giovanna.gif">
 </div>
 <div display="inline-block" align="center">
    <img height="180em" src="https://github.com/devvmg/PiriDev/blob/PiriProjects/abbacchio-fmega.gif">
-   <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PiriDev&layout=compact&langs_count=8&theme=nightowl&card_width=432&hide_border=disable"/>
+   <img height="180em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devvmg&layout=compact&langs_count=8&theme=nightowl&card_width=432&hide_border=disable"/>
 </div>
 
 <h2>🔰 Meus estudos:</h2>
