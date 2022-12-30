@@ -20,7 +20,7 @@
    ![Badge](https://img.shields.io/badge/NodeJS-%232ff5af?style=for-the-badge&logo=nodedotjs)
    ![Badge](https://img.shields.io/badge/PowerBI-%23f7ea6f?style=for-the-badge&logo=Power%20BI)
    ![Badge](https://img.shields.io/badge/JavaScript-%232ff5af?style=for-the-badge&logo=javascript)
-   ![Badge](https://img.shields.io/badge/Java-%23f7ea6f?style=for-the-badge&logo=java8)
+   ![Badge](https://img.shields.io/badge/C#_dotNET-%23f7ea6f?style=for-the-badge&logo=java8)
    ![Badge](https://img.shields.io/badge/PHP-%232ff5af?style=for-the-badge&logo=php)
 </div>
 
