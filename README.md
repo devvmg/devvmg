@@ -6,7 +6,7 @@
 </div>
 <div align="center">
    <img height="180em" src="https://github.com/devvmg/PiriDev/blob/PiriProjects/abbacchio-fmega.gif">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devvmg&layout=compact&langs_count=8&theme=nightowl&card_width=370&hide_border=disable"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devvmg&layout=compact&langs_count=6&theme=nightowl&card_width=370&hide_border=disable"/>
 </div>
 
 <h2>🔰 Meus estudos:</h2>
